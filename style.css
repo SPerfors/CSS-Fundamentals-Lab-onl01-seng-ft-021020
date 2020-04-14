@@ -18,6 +18,6 @@ figcaption {
   font-size: small;
 }
 
-details {
+section.details {
   display: block;
 }

@@ -11,4 +11,5 @@ a {
   background-color: lightpink;
   border-style: none solid;
   border-color: black;
+  border-width: 1px;
 }

@@ -9,5 +9,5 @@ a {
   margin-right: 10px;
   margin-left: 10px;
   background-color: lightpink;
-  border-style: solid none;
+  border-style: none solid;
 }

@@ -19,5 +19,5 @@ figcaption {
 }
 
 details {
-  
+  display: block;
 }
